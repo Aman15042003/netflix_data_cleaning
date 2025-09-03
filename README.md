@@ -54,3 +54,8 @@ Text values are standardized.
 Columns are renamed and consistent.
 Ready for further analysis or visualization.# netflix_data_cleaning
 Task 1:Data Cleaning Using Excel
+
+
+⚠ Note:
+- The full cleaned dataset (Netflix_Cleaned.xlsx) is large, so GitHub may not preview it online.  
+- A smaller sample file (Netflix_Cleaned_Sample.csv) with the first 200 rows is provided for quick viewing.
